@@ -1,0 +1,501 @@
+Student_ID,GitHub_Commits,LeetCode_Solved,LinkedIn_Posts,Blog_Articles,StackOverflow_Reputation,Hackathons_Attended,Preferred_Languages,ML_Certificates,Career_Label
+1,102,322,12,5,1324,2,"C++,Python,JS",4,Product Manager
+2,435,359,4,8,1266,1,"HTML,SQL",3,DevOps Engineer
+3,860,173,0,1,121,0,C++,0,UI/UX Designer
+4,270,279,0,4,1170,4,"SQL,C++,CSS",4,Cybersecurity Analyst
+5,106,113,17,2,1590,4,"Python,SQL",1,UI/UX Designer
+6,71,287,14,3,749,0,HTML,4,AI Engineer
+7,700,430,16,9,1379,0,SQL,3,Data Scientist
+8,20,341,10,5,684,1,"Python,HTML,JS",1,Data Scientist
+9,614,150,16,7,1927,2,"SQL,Go,C++",3,Cybersecurity Analyst
+10,121,449,12,0,1756,4,"CSS,Python",1,UI/UX Designer
+11,466,126,0,9,1654,1,Go,2,UI/UX Designer
+12,214,154,1,7,308,2,"CSS,Java",0,AI Engineer
+13,330,489,8,6,694,1,JS,0,Cybersecurity Analyst
+14,458,385,2,0,287,4,C++,3,Data Scientist
+15,87,473,0,1,306,0,"C++,JS",0,AI Engineer
+16,372,272,15,2,1835,0,"CSS,Python",3,DevOps Engineer
+17,99,103,5,0,1617,2,"Rust,C++,HTML",3,Cybersecurity Analyst
+18,871,416,16,8,1989,3,SQL,3,AI Engineer
+19,663,392,4,7,913,2,"JS,HTML",0,AI Engineer
+20,130,298,4,1,1746,3,"C++,Python,JS",3,Data Scientist
+21,661,245,5,8,661,1,CSS,0,AI Engineer
+22,308,175,2,6,548,1,HTML,3,Researcher/Academician
+23,769,38,4,8,1375,4,Go,4,Researcher/Academician
+24,343,476,4,5,311,3,"Rust,JS",3,Researcher/Academician
+25,491,169,9,5,872,4,JS,1,UI/UX Designer
+26,413,246,9,3,1082,0,"HTML,CSS",3,UI/UX Designer
+27,805,25,18,9,1666,3,"C++,Java,CSS",2,AI Engineer
+28,385,354,16,9,923,2,"HTML,Java,SQL",3,Researcher/Academician
+29,191,305,13,1,1737,0,"CSS,HTML",1,Data Scientist
+30,955,408,8,6,754,0,"JS,Python,C++",1,Researcher/Academician
+31,276,407,13,4,34,2,JS,0,Researcher/Academician
+32,160,12,0,5,444,0,"CSS,C++",4,DevOps Engineer
+33,459,315,18,1,92,3,JS,3,DevOps Engineer
+34,313,390,12,4,1973,4,Rust,0,Software Developer
+35,21,312,12,9,1982,0,"Rust,Java",4,UI/UX Designer
+36,252,35,3,3,1230,3,"Java,HTML",3,Data Scientist
+37,747,172,0,8,352,1,"SQL,CSS,JS",2,DevOps Engineer
+38,856,19,16,5,902,3,"Go,SQL,Java",3,Researcher/Academician
+39,560,320,7,1,1355,4,Java,1,Researcher/Academician
+40,474,263,1,0,1840,3,"Rust,C++,Go",1,Software Developer
+41,58,493,7,4,861,2,C++,2,Software Developer
+42,510,399,6,8,1748,4,Java,0,UI/UX Designer
+43,681,141,1,5,158,1,"Go,C++,HTML",4,DevOps Engineer
+44,475,459,2,9,1977,2,"Rust,CSS",3,Data Scientist
+45,699,370,17,6,956,3,"Python,C++,JS",1,Data Scientist
+46,975,470,11,4,23,4,"CSS,JS,Python",0,Product Manager
+47,782,142,0,9,403,1,"Go,Java",2,Researcher/Academician
+48,189,91,11,5,804,2,"Python,CSS",1,Software Developer
+49,957,353,4,4,515,1,"Java,C++,Go",2,Researcher/Academician
+50,686,321,16,8,731,3,"CSS,HTML,C++",3,Cybersecurity Analyst
+51,957,287,15,5,1387,1,"Java,Python",4,UI/UX Designer
+52,562,214,14,7,1405,0,"JS,Rust,Python",1,Researcher/Academician
+53,875,446,14,1,531,2,JS,1,AI Engineer
+54,566,341,4,8,955,1,"HTML,Python",3,Software Developer
+55,243,50,13,4,151,3,C++,0,Researcher/Academician
+56,831,152,1,6,1585,3,Rust,4,Data Scientist
+57,504,185,10,9,1712,1,SQL,1,UI/UX Designer
+58,130,62,18,0,946,3,Java,4,Data Scientist
+59,484,189,6,9,607,4,"Rust,Java,SQL",1,AI Engineer
+60,818,124,5,4,1640,4,"Go,HTML,CSS",4,Software Developer
+61,646,149,1,9,419,4,"HTML,CSS,SQL",2,Cybersecurity Analyst
+62,20,313,5,1,1273,0,"JS,Rust,CSS",1,Researcher/Academician
+63,840,57,17,5,1140,1,"C++,HTML",4,Researcher/Academician
+64,166,341,1,0,865,0,C++,0,AI Engineer
+65,273,304,17,2,1535,3,"Python,HTML",2,UI/UX Designer
+66,387,179,14,4,1763,0,"HTML,Python,Rust",2,UI/UX Designer
+67,600,169,18,3,577,3,"Python,HTML,SQL",0,DevOps Engineer
+68,315,325,1,2,334,3,JS,4,Product Manager
+69,13,270,19,9,1441,2,SQL,3,Product Manager
+70,241,53,5,4,931,4,CSS,0,UI/UX Designer
+71,776,490,0,7,1797,3,"Rust,HTML,CSS",4,Software Developer
+72,345,443,14,3,294,2,Rust,0,UI/UX Designer
+73,564,100,9,0,1961,4,Rust,0,Data Scientist
+74,897,480,18,6,754,3,"HTML,C++",1,UI/UX Designer
+75,339,263,16,7,1394,3,Go,4,Data Scientist
+76,91,52,4,2,185,0,"Go,SQL",3,Product Manager
+77,366,59,3,5,1269,0,"Python,C++",1,DevOps Engineer
+78,955,491,9,1,636,4,Go,0,DevOps Engineer
+79,454,107,16,6,1291,3,"JS,C++,Rust",0,AI Engineer
+80,427,4,9,7,1666,1,HTML,0,UI/UX Designer
+81,508,102,16,5,1260,0,"Rust,Java,HTML",4,Data Scientist
+82,775,195,19,5,529,4,CSS,4,AI Engineer
+83,942,261,4,4,1575,3,"HTML,C++",1,UI/UX Designer
+84,34,364,1,7,20,3,"SQL,C++",3,DevOps Engineer
+85,205,479,5,0,910,1,SQL,1,Product Manager
+86,80,371,1,9,1760,4,C++,2,AI Engineer
+87,931,349,12,3,866,3,Java,0,Data Scientist
+88,561,46,10,3,793,0,"Rust,SQL",0,DevOps Engineer
+89,871,354,10,2,1543,1,Go,0,Product Manager
+90,387,310,15,2,99,4,Java,1,UI/UX Designer
+91,1,423,10,3,751,1,"Python,Go",1,AI Engineer
+92,389,307,18,0,477,0,"Rust,CSS",0,Data Scientist
+93,565,143,14,1,1622,4,"SQL,Rust",1,Product Manager
+94,105,268,15,8,1321,1,HTML,4,UI/UX Designer
+95,771,369,10,9,939,2,"HTML,Python",4,Software Developer
+96,821,123,15,1,525,0,"SQL,Python,JS",1,UI/UX Designer
+97,476,105,7,4,333,0,"Python,SQL",0,DevOps Engineer
+98,702,157,3,8,1,0,"Rust,Java,Python",1,AI Engineer
+99,401,146,7,8,374,2,"C++,Java,Python",1,Cybersecurity Analyst
+100,729,144,3,7,292,2,"C++,HTML,Rust",1,UI/UX Designer
+101,555,119,2,0,836,3,HTML,2,Researcher/Academician
+102,161,318,2,0,1957,1,"Python,C++,HTML",4,Cybersecurity Analyst
+103,201,274,17,8,1004,3,"SQL,JS,Java",3,Cybersecurity Analyst
+104,957,91,18,7,552,1,JS,3,AI Engineer
+105,995,57,18,9,317,2,CSS,2,AI Engineer
+106,269,438,4,8,1525,2,"Java,CSS",1,Data Scientist
+107,862,345,17,6,1851,3,"JS,C++",2,DevOps Engineer
+108,815,228,9,2,380,4,Rust,2,Data Scientist
+109,270,473,5,2,1646,3,"C++,SQL,CSS",0,Software Developer
+110,455,116,0,1,13,1,SQL,4,UI/UX Designer
+111,461,317,4,4,503,3,"Java,JS",3,AI Engineer
+112,726,278,8,2,230,0,HTML,1,Product Manager
+113,251,126,11,5,1107,1,"CSS,Java",3,AI Engineer
+114,701,392,13,1,129,1,"SQL,CSS",3,AI Engineer
+115,295,395,1,2,1766,4,"SQL,Python,JS",4,AI Engineer
+116,724,128,16,4,837,2,"CSS,C++,Rust",3,AI Engineer
+117,719,57,13,0,1168,1,"C++,SQL",3,Researcher/Academician
+118,748,121,12,0,890,2,"SQL,Java,Rust",2,Software Developer
+119,337,0,8,9,1880,3,"HTML,JS",4,Product Manager
+120,878,238,14,8,27,0,CSS,0,UI/UX Designer
+121,52,289,14,6,65,4,"Rust,CSS,Go",1,Cybersecurity Analyst
+122,791,95,10,0,1186,2,C++,3,Researcher/Academician
+123,921,125,15,7,1252,1,"Go,CSS,Python",1,DevOps Engineer
+124,216,117,16,2,260,2,JS,0,Researcher/Academician
+125,763,47,3,7,1472,1,CSS,1,Cybersecurity Analyst
+126,187,88,0,4,1447,2,Rust,0,Cybersecurity Analyst
+127,379,487,7,0,459,1,"Go,Python,Rust",2,DevOps Engineer
+128,492,236,16,6,1975,3,Java,3,Researcher/Academician
+129,40,372,2,4,1699,1,"Python,JS,CSS",0,Cybersecurity Analyst
+130,156,384,19,5,300,1,"Java,Go,C++",1,UI/UX Designer
+131,14,271,14,5,918,0,CSS,3,Researcher/Academician
+132,812,188,14,7,1326,1,"Python,JS",2,Researcher/Academician
+133,64,486,13,8,286,0,HTML,3,DevOps Engineer
+134,856,191,13,1,1418,4,"C++,JS,Go",0,Product Manager
+135,838,446,1,8,1033,0,"Go,Java,C++",2,Product Manager
+136,520,68,12,9,1730,3,Java,1,AI Engineer
+137,343,277,13,8,629,0,"Python,Java",2,Cybersecurity Analyst
+138,128,348,18,9,269,4,"JS,Go,Rust",2,AI Engineer
+139,647,246,6,9,591,3,"HTML,CSS,C++",4,DevOps Engineer
+140,471,450,2,6,1993,2,"C++,Go,Rust",2,Software Developer
+141,62,75,14,0,1628,2,Rust,2,Researcher/Academician
+142,138,153,13,6,1801,0,HTML,3,UI/UX Designer
+143,498,143,10,9,843,0,"JS,CSS",1,Data Scientist
+144,592,434,14,4,861,4,HTML,3,Data Scientist
+145,391,484,12,5,1384,4,HTML,3,DevOps Engineer
+146,674,85,17,9,1280,1,"JS,CSS",0,Data Scientist
+147,418,184,5,6,132,4,CSS,3,AI Engineer
+148,288,284,2,4,1299,1,"SQL,Go",4,DevOps Engineer
+149,378,461,18,6,1799,3,"SQL,JS,Python",4,Researcher/Academician
+150,772,219,14,8,1706,0,CSS,0,AI Engineer
+151,489,68,4,2,971,3,CSS,1,Product Manager
+152,230,46,9,7,512,4,C++,1,Data Scientist
+153,40,496,6,1,312,3,"Go,JS,Rust",3,Cybersecurity Analyst
+154,27,93,16,6,575,3,"Go,C++",3,Researcher/Academician
+155,134,237,6,1,885,3,"HTML,CSS",3,UI/UX Designer
+156,200,445,11,3,1307,4,Go,1,Software Developer
+157,839,499,16,6,1144,3,SQL,2,Product Manager
+158,779,452,12,2,1130,1,"HTML,JS,SQL",4,Software Developer
+159,929,203,19,1,1956,4,JS,2,Product Manager
+160,32,399,3,9,686,3,"JS,C++,SQL",2,UI/UX Designer
+161,47,217,9,6,1227,4,"SQL,CSS",1,Cybersecurity Analyst
+162,502,473,2,0,164,2,"Go,JS,HTML",2,Product Manager
+163,406,431,8,7,304,1,"CSS,Java,C++",0,Data Scientist
+164,573,340,12,2,1520,3,"Go,Java",3,UI/UX Designer
+165,727,38,17,1,1655,2,"CSS,Go,SQL",0,Cybersecurity Analyst
+166,804,99,14,2,1579,2,CSS,4,Software Developer
+167,98,288,3,4,1847,4,"HTML,Go",3,UI/UX Designer
+168,683,253,14,7,155,2,"JS,Rust,HTML",2,Data Scientist
+169,871,221,1,9,1390,1,"HTML,Rust",4,UI/UX Designer
+170,725,356,14,6,1742,1,"Java,C++,SQL",3,AI Engineer
+171,986,22,7,6,1925,0,"JS,C++,Go",2,AI Engineer
+172,546,249,7,6,619,1,CSS,0,Software Developer
+173,960,9,16,7,1274,2,HTML,3,DevOps Engineer
+174,738,245,11,0,956,1,Python,2,Researcher/Academician
+175,612,324,18,3,1939,4,HTML,0,AI Engineer
+176,942,99,9,5,1905,0,"C++,Rust",4,Researcher/Academician
+177,461,289,8,8,333,2,"HTML,Go",4,Researcher/Academician
+178,642,179,4,1,1665,0,"Go,HTML",4,Software Developer
+179,768,222,5,0,968,2,Python,4,Data Scientist
+180,4,393,19,9,510,4,Go,1,Software Developer
+181,217,249,1,1,1316,0,Java,3,DevOps Engineer
+182,502,146,12,6,1043,3,"SQL,Rust,Python",3,Cybersecurity Analyst
+183,766,441,5,2,281,2,"HTML,C++,SQL",1,AI Engineer
+184,397,95,4,9,796,3,Rust,2,Product Manager
+185,870,256,0,1,1024,0,"SQL,JS,Go",2,Data Scientist
+186,794,324,5,6,118,3,"SQL,Go",4,DevOps Engineer
+187,392,492,5,1,1058,3,"Rust,Java,JS",0,Cybersecurity Analyst
+188,206,3,15,2,197,0,"Rust,CSS",2,DevOps Engineer
+189,14,15,3,6,484,4,CSS,0,Data Scientist
+190,857,279,10,3,1780,3,"Rust,HTML,Java",3,Software Developer
+191,553,335,8,0,1082,3,"C++,CSS",0,Cybersecurity Analyst
+192,891,246,2,4,836,4,CSS,3,Product Manager
+193,460,257,18,8,1184,3,"JS,C++",1,Researcher/Academician
+194,690,496,7,7,1008,3,Java,1,Data Scientist
+195,574,475,4,8,690,3,Go,4,Data Scientist
+196,863,383,3,9,1229,1,"Java,HTML,Python",2,Researcher/Academician
+197,742,159,5,8,1035,4,"Go,JS",4,Software Developer
+198,240,474,1,6,489,3,"Rust,Go,Python",3,Cybersecurity Analyst
+199,563,339,19,3,275,4,Go,4,AI Engineer
+200,95,151,10,4,692,2,"Python,Go",0,DevOps Engineer
+201,899,395,3,0,241,2,"Python,JS",3,Product Manager
+202,733,177,14,0,1239,3,"Go,SQL",1,Software Developer
+203,484,162,5,2,1274,4,"SQL,HTML,Rust",2,UI/UX Designer
+204,406,379,16,7,1834,4,CSS,3,Cybersecurity Analyst
+205,230,32,5,1,125,4,"Rust,Python",3,Product Manager
+206,748,416,18,3,216,1,"JS,Go",0,AI Engineer
+207,654,444,1,1,1329,2,"Java,Rust,C++",2,Data Scientist
+208,170,178,14,4,1820,4,"SQL,Python,HTML",1,UI/UX Designer
+209,540,426,10,8,1208,4,"Python,C++,JS",3,Data Scientist
+210,35,100,7,0,1062,1,"Java,Rust",3,Software Developer
+211,524,267,18,4,1246,1,Python,0,Product Manager
+212,159,322,12,8,1207,4,"Go,JS",4,Researcher/Academician
+213,838,64,11,0,494,0,Rust,1,Software Developer
+214,698,416,4,8,426,4,"JS,Go",2,Product Manager
+215,242,167,5,7,1201,4,"Go,CSS",3,UI/UX Designer
+216,85,329,3,3,918,1,Rust,3,DevOps Engineer
+217,795,42,18,9,1451,1,SQL,1,Software Developer
+218,577,43,19,4,1317,4,JS,4,UI/UX Designer
+219,681,284,0,4,1875,4,C++,3,Data Scientist
+220,556,396,19,5,150,4,"Python,SQL,C++",1,UI/UX Designer
+221,573,11,16,6,383,1,Python,0,Cybersecurity Analyst
+222,952,94,11,7,1661,4,"Java,HTML,C++",4,Data Scientist
+223,645,301,14,7,1836,4,"C++,HTML",2,UI/UX Designer
+224,795,385,0,1,307,3,"CSS,JS",3,AI Engineer
+225,27,252,13,8,1359,0,C++,1,Software Developer
+226,619,498,5,6,1969,2,CSS,0,UI/UX Designer
+227,555,241,4,3,745,0,Python,2,UI/UX Designer
+228,339,34,10,3,891,3,"Go,SQL",1,AI Engineer
+229,797,214,3,7,374,2,"HTML,C++,CSS",1,Researcher/Academician
+230,957,336,12,3,1031,4,"HTML,C++,JS",2,Researcher/Academician
+231,330,89,10,5,1364,3,"C++,Python",0,AI Engineer
+232,639,263,2,4,128,4,"SQL,Go",0,AI Engineer
+233,505,92,0,2,1014,1,"JS,C++,CSS",4,Data Scientist
+234,347,409,5,9,1799,3,"JS,Python,Go",3,Researcher/Academician
+235,472,457,17,1,668,1,"Rust,C++",2,Software Developer
+236,230,89,9,8,1375,3,"JS,Rust",2,DevOps Engineer
+237,189,417,4,9,1381,3,"Java,Go,C++",2,Cybersecurity Analyst
+238,224,114,9,8,516,1,"SQL,CSS,Rust",0,Software Developer
+239,384,104,11,0,1518,2,"Rust,SQL,HTML",3,Cybersecurity Analyst
+240,376,390,1,9,85,0,"CSS,JS,Go",4,Software Developer
+241,282,195,12,2,1198,4,C++,1,UI/UX Designer
+242,957,313,7,7,1825,3,"Rust,HTML",1,DevOps Engineer
+243,632,113,1,5,1216,4,"Go,JS",2,Product Manager
+244,627,492,19,4,310,1,Rust,3,Researcher/Academician
+245,972,74,0,4,1142,4,"Java,Rust",0,DevOps Engineer
+246,744,412,4,5,1241,1,JS,3,Software Developer
+247,258,375,8,6,426,4,"JS,CSS",3,Cybersecurity Analyst
+248,358,419,16,0,1993,0,"CSS,Python,SQL",0,DevOps Engineer
+249,709,216,8,8,1437,0,C++,2,UI/UX Designer
+250,455,276,10,2,113,0,Go,3,Software Developer
+251,410,248,14,3,1168,0,"SQL,HTML",1,UI/UX Designer
+252,648,163,5,9,1561,0,"Rust,SQL,HTML",0,DevOps Engineer
+253,317,393,2,0,1671,0,C++,4,Data Scientist
+254,676,356,16,9,302,1,"HTML,Go",2,UI/UX Designer
+255,224,456,4,2,743,3,"HTML,CSS,JS",0,Product Manager
+256,818,407,11,1,1904,4,"JS,Rust,CSS",4,Product Manager
+257,233,191,17,1,587,0,"JS,Go,SQL",4,Researcher/Academician
+258,683,226,13,0,986,1,"JS,SQL,Rust",3,Product Manager
+259,663,176,10,7,1863,1,"CSS,SQL",3,UI/UX Designer
+260,974,98,8,2,344,1,"HTML,C++",3,AI Engineer
+261,826,495,1,2,813,3,"HTML,JS,Python",0,Researcher/Academician
+262,373,35,11,5,1987,4,"SQL,Java,C++",0,Researcher/Academician
+263,671,465,2,7,800,3,Rust,2,UI/UX Designer
+264,607,496,2,8,1024,2,"SQL,CSS",3,DevOps Engineer
+265,471,486,0,8,1170,1,HTML,4,Data Scientist
+266,232,95,7,3,1310,2,"HTML,JS",1,Product Manager
+267,691,151,7,4,1999,0,CSS,2,Data Scientist
+268,112,150,10,1,1677,0,SQL,0,Product Manager
+269,829,189,8,8,1076,3,CSS,2,AI Engineer
+270,496,223,4,7,1327,4,Python,2,DevOps Engineer
+271,441,36,13,2,1092,2,"CSS,Java,JS",2,UI/UX Designer
+272,563,267,2,8,360,4,"C++,Python",2,Data Scientist
+273,267,368,4,2,1625,3,"CSS,Rust,HTML",1,Data Scientist
+274,509,182,4,8,1981,0,"JS,Java",3,UI/UX Designer
+275,806,12,18,1,1243,4,CSS,4,DevOps Engineer
+276,385,278,13,9,1985,4,"C++,SQL",2,DevOps Engineer
+277,386,216,3,8,1009,0,"Rust,C++",2,Researcher/Academician
+278,112,354,12,7,703,2,"Python,Java,C++",2,Product Manager
+279,612,360,9,8,1989,0,"CSS,C++,Rust",3,AI Engineer
+280,624,285,17,4,574,4,SQL,0,Researcher/Academician
+281,951,272,7,1,1608,2,"HTML,Go",0,UI/UX Designer
+282,80,368,7,7,1184,2,"Rust,CSS",1,Researcher/Academician
+283,698,61,6,5,1704,0,"Go,CSS,Rust",0,Software Developer
+284,112,83,7,7,1112,4,"Python,C++,Go",2,UI/UX Designer
+285,1,367,13,4,687,3,HTML,2,Product Manager
+286,641,216,18,9,780,4,"C++,Java",2,DevOps Engineer
+287,219,341,5,1,584,1,Java,1,Software Developer
+288,565,396,0,5,1780,3,"C++,Java,Python",2,Data Scientist
+289,854,186,14,4,588,2,"Rust,SQL",0,Product Manager
+290,996,18,0,4,1182,3,"Python,HTML",3,UI/UX Designer
+291,735,176,16,0,488,2,"CSS,Rust",3,AI Engineer
+292,224,99,0,1,970,2,HTML,4,Software Developer
+293,384,395,14,7,1347,3,"HTML,Go",0,AI Engineer
+294,402,444,1,2,1633,2,SQL,2,Researcher/Academician
+295,637,232,13,9,1404,2,Java,3,Software Developer
+296,129,402,7,2,1125,1,"Java,C++",0,AI Engineer
+297,52,75,7,7,493,4,Java,3,Data Scientist
+298,683,264,18,7,1667,4,"CSS,Rust",2,Cybersecurity Analyst
+299,729,454,6,1,1637,1,Rust,3,UI/UX Designer
+300,671,283,18,7,18,3,"CSS,Go,Java",4,UI/UX Designer
+301,709,205,5,0,1477,0,"SQL,Rust,HTML",4,Product Manager
+302,415,222,5,5,1505,0,Python,3,Software Developer
+303,246,383,2,7,1617,0,"JS,CSS",0,AI Engineer
+304,835,51,6,2,396,1,C++,0,Researcher/Academician
+305,438,338,18,7,1000,1,Python,0,UI/UX Designer
+306,202,366,7,0,1302,2,"CSS,Python,Go",3,UI/UX Designer
+307,183,143,9,8,850,0,Rust,0,Researcher/Academician
+308,122,372,19,8,1388,3,"Rust,CSS,C++",2,Data Scientist
+309,400,68,14,4,1354,3,"Go,Rust,Python",4,AI Engineer
+310,766,98,14,9,1664,0,"JS,Go",2,UI/UX Designer
+311,293,395,0,3,1367,0,"JS,C++",0,Product Manager
+312,279,24,19,5,821,0,JS,2,UI/UX Designer
+313,836,435,6,6,454,1,"Rust,CSS",0,DevOps Engineer
+314,883,378,3,4,1624,1,"Go,Python,HTML",3,Cybersecurity Analyst
+315,609,468,5,9,724,1,JS,2,Data Scientist
+316,197,483,0,8,1678,4,"JS,C++",3,Software Developer
+317,981,52,4,2,1088,3,"SQL,Python",3,AI Engineer
+318,906,150,0,6,1099,3,"SQL,Rust,HTML",1,Researcher/Academician
+319,510,143,3,9,710,2,HTML,0,Product Manager
+320,751,56,1,9,142,1,"JS,Rust,SQL",4,Data Scientist
+321,143,38,9,4,916,4,"Python,HTML",0,DevOps Engineer
+322,608,108,4,6,1938,4,"SQL,Java",4,DevOps Engineer
+323,200,180,9,1,827,3,"Rust,SQL",0,Researcher/Academician
+324,123,41,0,3,604,1,Python,3,Cybersecurity Analyst
+325,186,185,5,1,1496,2,"HTML,Java,Rust",2,DevOps Engineer
+326,325,422,12,6,1440,1,"Python,Go,SQL",2,Researcher/Academician
+327,463,397,14,1,304,0,C++,1,Cybersecurity Analyst
+328,348,222,3,0,735,1,"C++,Java",4,Data Scientist
+329,770,121,12,8,1520,0,"CSS,SQL",4,AI Engineer
+330,659,132,19,0,290,0,"Rust,SQL",4,Data Scientist
+331,763,162,14,7,1963,2,Rust,3,Researcher/Academician
+332,954,214,7,1,101,3,"Java,Go,C++",4,AI Engineer
+333,931,220,4,7,1290,1,"SQL,Java,Go",2,Researcher/Academician
+334,402,234,14,2,866,0,CSS,3,Data Scientist
+335,345,330,3,5,967,1,"JS,CSS",0,UI/UX Designer
+336,962,145,11,2,1645,3,CSS,4,UI/UX Designer
+337,510,238,12,6,973,3,"CSS,Rust,Go",4,Data Scientist
+338,146,75,1,9,841,4,Rust,0,DevOps Engineer
+339,147,8,18,8,961,3,"Rust,JS,Java",4,DevOps Engineer
+340,863,73,18,1,941,2,"SQL,Go,HTML",0,AI Engineer
+341,710,441,3,4,1800,0,"HTML,SQL",3,AI Engineer
+342,819,491,3,5,1026,4,"Go,HTML,SQL",2,UI/UX Designer
+343,488,400,10,3,84,2,"Python,JS",0,Cybersecurity Analyst
+344,928,252,4,3,1817,1,"Rust,Go,HTML",1,Data Scientist
+345,935,229,19,3,327,0,"Java,Rust,Python",0,Cybersecurity Analyst
+346,639,6,10,1,815,3,SQL,4,AI Engineer
+347,550,173,9,3,1473,0,"JS,C++,Go",3,Cybersecurity Analyst
+348,337,140,7,0,453,1,"C++,Rust",3,Researcher/Academician
+349,871,167,5,5,1947,4,Java,0,Software Developer
+350,640,169,5,0,628,4,"Java,C++",2,UI/UX Designer
+351,778,392,7,9,1244,4,"CSS,JS",1,UI/UX Designer
+352,987,433,14,5,1177,3,"Go,C++,SQL",3,Researcher/Academician
+353,952,282,13,0,664,2,"SQL,Go",4,AI Engineer
+354,472,121,10,5,11,2,"Rust,Python",4,Data Scientist
+355,945,193,11,9,1156,0,"C++,HTML,JS",2,Data Scientist
+356,150,4,12,7,303,3,"CSS,HTML,JS",3,DevOps Engineer
+357,414,28,7,1,1316,4,Go,0,Product Manager
+358,989,164,17,1,974,4,C++,4,Researcher/Academician
+359,297,421,0,3,1323,1,"Java,CSS",2,Product Manager
+360,610,338,14,2,1763,1,Python,3,Product Manager
+361,262,135,7,3,782,4,"Python,CSS",3,Data Scientist
+362,763,495,10,6,42,4,"JS,Go",3,AI Engineer
+363,143,364,11,0,943,3,HTML,3,UI/UX Designer
+364,345,320,11,5,342,2,"Go,Java,C++",3,Data Scientist
+365,623,341,3,2,1349,1,C++,4,Researcher/Academician
+366,571,499,15,9,1837,2,"Go,HTML,Rust",2,Researcher/Academician
+367,880,144,3,6,497,3,"Java,HTML,Rust",3,UI/UX Designer
+368,1,326,4,9,363,4,"CSS,Rust,Java",1,AI Engineer
+369,896,216,4,1,890,2,"Python,Rust,Java",1,AI Engineer
+370,303,300,7,1,426,4,"SQL,Java,Python",2,AI Engineer
+371,253,131,9,3,1004,4,"JS,CSS",0,Product Manager
+372,651,291,16,0,20,0,"Go,CSS,HTML",0,Software Developer
+373,452,69,8,2,406,2,"HTML,Go",0,Data Scientist
+374,36,251,18,8,618,2,"C++,HTML",1,AI Engineer
+375,159,414,13,6,1014,4,"JS,CSS",0,DevOps Engineer
+376,8,274,7,6,335,3,"CSS,Python,Go",4,AI Engineer
+377,232,444,8,3,1838,0,"Go,CSS,Python",3,AI Engineer
+378,98,363,10,1,1140,4,"Python,Rust,Go",1,UI/UX Designer
+379,658,181,0,3,1147,1,"HTML,JS",2,Cybersecurity Analyst
+380,815,166,13,5,398,1,HTML,2,UI/UX Designer
+381,207,90,4,2,792,0,"CSS,Java,JS",3,DevOps Engineer
+382,130,201,13,0,1827,3,Python,1,Data Scientist
+383,403,345,3,7,714,4,"Rust,Python",0,DevOps Engineer
+384,151,18,0,4,50,2,"JS,Java,Python",0,Cybersecurity Analyst
+385,53,38,18,4,1806,0,"JS,Go",4,DevOps Engineer
+386,119,125,7,3,323,3,HTML,4,AI Engineer
+387,672,450,14,5,788,2,SQL,0,DevOps Engineer
+388,919,172,14,2,140,1,"SQL,CSS",2,Data Scientist
+389,627,140,8,8,469,1,CSS,2,AI Engineer
+390,586,241,8,4,786,2,"CSS,JS",4,AI Engineer
+391,624,219,9,2,1825,0,Rust,3,AI Engineer
+392,967,125,19,0,1357,1,Java,0,UI/UX Designer
+393,419,57,8,9,1916,4,Go,4,Software Developer
+394,421,147,2,5,963,2,"JS,C++,Go",4,Software Developer
+395,103,475,19,1,1007,2,"Python,CSS",0,Data Scientist
+396,851,455,10,2,372,1,"C++,Rust,Java",0,Software Developer
+397,253,316,5,0,1587,0,"CSS,Go,Rust",2,DevOps Engineer
+398,226,382,1,8,493,4,"JS,C++,SQL",3,Cybersecurity Analyst
+399,111,360,6,7,1562,0,Rust,3,Product Manager
+400,509,422,17,1,1692,3,SQL,0,Software Developer
+401,472,0,1,7,750,3,"HTML,C++",1,Researcher/Academician
+402,98,386,16,8,1179,1,"Rust,CSS,JS",4,DevOps Engineer
+403,152,460,10,0,290,1,"C++,Java",4,DevOps Engineer
+404,860,347,11,4,1671,1,Python,0,Researcher/Academician
+405,913,189,18,7,1167,3,"Rust,C++",1,Cybersecurity Analyst
+406,895,190,6,1,105,0,HTML,2,Product Manager
+407,877,368,19,3,1443,0,"Java,Go,HTML",0,DevOps Engineer
+408,337,408,5,6,669,1,"SQL,Go",0,Researcher/Academician
+409,705,311,0,2,1681,4,"Java,Go,JS",4,Data Scientist
+410,821,416,16,4,1,0,Rust,0,Software Developer
+411,162,421,10,7,1968,3,"Go,CSS,Python",0,AI Engineer
+412,719,116,17,9,588,2,"JS,HTML,Rust",0,Researcher/Academician
+413,956,133,16,2,643,2,"HTML,JS",4,Product Manager
+414,680,57,6,3,89,2,JS,2,Researcher/Academician
+415,995,43,16,8,1368,4,"JS,Python,HTML",2,Researcher/Academician
+416,160,172,19,6,349,1,"HTML,C++",0,Cybersecurity Analyst
+417,579,159,8,0,1482,3,"C++,HTML",4,UI/UX Designer
+418,800,172,16,3,1286,4,"Python,SQL,Go",2,AI Engineer
+419,397,316,19,3,1374,3,"HTML,Java",2,UI/UX Designer
+420,276,302,7,8,1131,3,"HTML,C++,Go",2,UI/UX Designer
+421,815,148,16,5,1609,1,"HTML,SQL,Go",4,UI/UX Designer
+422,915,79,6,8,1062,2,JS,4,Product Manager
+423,503,373,0,5,908,1,Python,0,AI Engineer
+424,895,212,12,5,158,4,"Java,SQL",3,UI/UX Designer
+425,391,202,18,4,1606,4,"CSS,Java,Python",2,Data Scientist
+426,134,251,18,4,958,4,"Python,Java,SQL",3,UI/UX Designer
+427,194,228,16,1,311,1,"HTML,JS",4,Cybersecurity Analyst
+428,400,163,12,7,1264,3,Java,4,Researcher/Academician
+429,639,226,15,7,1961,3,"Python,Java",4,Data Scientist
+430,32,146,7,0,444,0,"Go,C++,JS",3,DevOps Engineer
+431,687,19,18,7,297,4,Rust,4,Researcher/Academician
+432,459,440,17,4,951,3,"JS,C++",0,Cybersecurity Analyst
+433,954,401,0,1,35,0,"SQL,HTML",4,AI Engineer
+434,882,46,13,1,1107,3,"Python,CSS,HTML",1,Data Scientist
+435,469,232,18,5,1475,4,"Python,SQL,HTML",3,Software Developer
+436,374,304,14,8,1909,2,"Go,C++",1,DevOps Engineer
+437,21,13,17,0,1798,4,"Rust,C++",4,Product Manager
+438,749,142,1,5,1845,1,JS,0,Product Manager
+439,669,414,16,8,1408,3,"Java,C++,Rust",2,Cybersecurity Analyst
+440,37,0,17,7,1195,3,"SQL,JS",4,AI Engineer
+441,229,372,5,5,1399,1,"SQL,CSS",0,UI/UX Designer
+442,364,53,18,2,1708,1,"SQL,Go",3,UI/UX Designer
+443,562,373,3,7,1385,2,C++,1,Cybersecurity Analyst
+444,437,258,0,8,558,3,"SQL,HTML,Rust",1,AI Engineer
+445,775,143,7,0,890,3,"HTML,Go",1,Researcher/Academician
+446,282,470,6,8,140,2,"Rust,Go",3,Researcher/Academician
+447,26,440,2,5,886,0,"C++,JS",0,Researcher/Academician
+448,225,458,9,5,1941,2,"JS,CSS",3,DevOps Engineer
+449,276,11,9,3,1141,4,"Java,Rust",1,Researcher/Academician
+450,797,329,18,0,1300,3,C++,4,Software Developer
+451,608,223,13,9,725,1,C++,2,Data Scientist
+452,283,271,1,7,1243,4,"C++,JS",3,Product Manager
+453,878,455,0,1,1928,3,SQL,3,Researcher/Academician
+454,959,357,17,0,1049,2,SQL,0,Cybersecurity Analyst
+455,480,459,6,1,520,4,"JS,C++,HTML",0,Cybersecurity Analyst
+456,452,407,7,0,1806,3,"Go,Python",3,UI/UX Designer
+457,828,155,0,0,9,0,"CSS,JS",1,Software Developer
+458,815,372,2,8,983,0,SQL,2,Software Developer
+459,658,7,7,0,377,1,Java,0,DevOps Engineer
+460,515,121,14,3,1656,3,"Rust,HTML,Go",1,Researcher/Academician
+461,546,347,4,9,1660,0,JS,4,Researcher/Academician
+462,191,163,2,5,681,2,"JS,C++,Go",0,DevOps Engineer
+463,48,89,18,6,583,3,"HTML,Go",1,Software Developer
+464,511,135,0,1,151,2,"SQL,Python,CSS",1,Data Scientist
+465,16,185,14,5,719,2,"CSS,Python,C++",2,Product Manager
+466,171,315,7,6,1072,0,"CSS,JS",2,AI Engineer
+467,219,177,1,9,1177,3,"Python,Java",4,DevOps Engineer
+468,157,27,2,9,858,4,Go,1,UI/UX Designer
+469,476,219,13,1,1316,0,Java,1,Product Manager
+470,45,356,13,1,1603,0,"Python,C++,JS",2,UI/UX Designer
+471,372,40,10,9,49,3,"HTML,Go,SQL",0,Software Developer
+472,517,227,15,6,663,3,"JS,Java",0,Product Manager
+473,98,191,3,0,530,2,"CSS,JS",3,Software Developer
+474,891,410,19,7,1635,3,"C++,Python,SQL",2,Cybersecurity Analyst
+475,744,446,4,2,1083,2,Python,3,UI/UX Designer
+476,36,144,13,5,1190,0,"C++,CSS,HTML",2,DevOps Engineer
+477,279,200,15,8,1225,1,"Go,Rust,CSS",4,Data Scientist
+478,348,416,17,5,856,4,"Go,CSS",1,Product Manager
+479,496,211,6,8,145,0,SQL,4,Researcher/Academician
+480,301,460,9,6,914,3,JS,2,DevOps Engineer
+481,180,219,6,8,1699,4,"C++,CSS",1,Data Scientist
+482,606,239,0,1,1993,1,"Rust,CSS,Python",0,AI Engineer
+483,98,412,18,7,992,1,Go,0,Data Scientist
+484,699,396,15,7,1462,2,"Python,SQL,C++",3,Product Manager
+485,992,45,18,1,241,4,"HTML,Java",2,UI/UX Designer
+486,115,34,3,3,580,2,"CSS,JS",2,UI/UX Designer
+487,190,252,17,6,686,0,Python,0,UI/UX Designer
+488,252,389,1,3,1584,4,"Go,Java",4,AI Engineer
+489,980,81,0,3,482,0,Go,1,Cybersecurity Analyst
+490,927,370,14,5,1131,2,"HTML,JS,Python",4,Product Manager
+491,982,255,4,9,1249,4,"Python,Go",4,Software Developer
+492,160,196,19,5,672,2,Rust,0,Software Developer
+493,255,302,10,9,630,4,JS,0,Software Developer
+494,322,408,9,2,660,2,"Go,SQL,JS",0,AI Engineer
+495,127,449,1,8,661,1,"Go,CSS,Python",3,UI/UX Designer
+496,17,9,2,9,1455,2,"Python,JS",4,Researcher/Academician
+497,792,311,11,1,804,1,Rust,2,Researcher/Academician
+498,734,285,19,5,1678,2,"JS,C++,HTML",1,AI Engineer
+499,565,241,4,6,418,4,HTML,3,AI Engineer
+500,569,250,4,8,987,4,"Go,C++",2,UI/UX Designer
